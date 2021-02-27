@@ -19,7 +19,7 @@ void keyPressed() {
       spirit.setDir(0, 1);
       break;
     case RIGHT:
-      spirit.setDir(1, 0);
+      spirit.setDir(1, 0);       
       break;
     case LEFT: 
       spirit.setDir(-1, 0);
